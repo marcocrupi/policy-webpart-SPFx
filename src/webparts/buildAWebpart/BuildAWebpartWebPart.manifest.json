@@ -3,6 +3,7 @@
   "id": "e520c39c-db39-4808-be47-f558ffac8140",
   "alias": "BuildAWebpartWebPart",
   "componentType": "WebPart",
+  "supportsThemeVariants": true,
 
   // The "*" signifies that the version should be taken from the package.json
   "version": "*",
@@ -19,7 +20,7 @@
     "group": { "default": "Other" },
     "title": { "default": "build-a-webpart" },
     "description": { "default": "build-a-webpart description" },
-    "officeFabricIconFontName": "Page",
+    "officeFabricIconFontName": "DocumentApproval",
     "properties": {
       "description": "build-a-webpart"
     }
